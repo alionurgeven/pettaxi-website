@@ -26,12 +26,12 @@ function App() {
           </p>
         </div>
         <div className="contact">
-          <a className="contactLogoContainer" target="_blank" href="https://www.instagram.com/pettaxi_ankara/">
-            <img className="contactLogo" src={instagram}/>
+          <a className="contactLogoContainer" target="_blank" href="https://www.instagram.com/pettaxi_ankara/" rel="noreferrer">
+            <img className="contactLogo" src={instagram} alt="yükleniyor..."/>
               Instagram
           </a>
-          <a className="contactLogoContainer" href="https://wa.me/+905358993242" target="_blank">
-            <img className="contactLogo" src={whatsapp}/>
+          <a className="contactLogoContainer" href="https://wa.me/+905358993242" target="_blank" rel="noreferrer">
+            <img className="contactLogo" src={whatsapp} alt="yükleniyor..."/>
               WhatsApp
           </a>
         </div>
