@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pettaxi-website/static/css/main.622a7fef.css",
+    "main.css": "/pettaxi-website/static/css/main.4d93e56f.css",
     "main.js": "/pettaxi-website/static/js/main.07cbedbc.js",
     "static/js/787.095dc1bd.chunk.js": "/pettaxi-website/static/js/787.095dc1bd.chunk.js",
     "static/media/instagram.png": "/pettaxi-website/static/media/instagram.fa767dc54bb713857609.png",
@@ -10,12 +10,12 @@
     "static/media/7-24.png": "/pettaxi-website/static/media/7-24.542b3c02b719b5e9b000.png",
     "static/media/whatsapp.png": "/pettaxi-website/static/media/whatsapp.2f7c53f2b2de99d2304c.png",
     "index.html": "/pettaxi-website/index.html",
-    "main.622a7fef.css.map": "/pettaxi-website/static/css/main.622a7fef.css.map",
+    "main.4d93e56f.css.map": "/pettaxi-website/static/css/main.4d93e56f.css.map",
     "main.07cbedbc.js.map": "/pettaxi-website/static/js/main.07cbedbc.js.map",
     "787.095dc1bd.chunk.js.map": "/pettaxi-website/static/js/787.095dc1bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.622a7fef.css",
+    "static/css/main.4d93e56f.css",
     "static/js/main.07cbedbc.js"
   ]
 }
