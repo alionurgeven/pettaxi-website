@@ -2,6 +2,7 @@ import dogGif from "./cuteDogGif.gif"
 import taxiGif from "./taxi.gif"
 import instagram from "./instagram.png"
 import whatsapp from "./whatsapp.png"
+import phone from "./phone.png"
 import workingHours from "./7-24.png"
 import './App.css';
 
@@ -30,10 +31,15 @@ function App() {
             <img className="contactLogo" src={instagram} alt="yükleniyor..."/>
               Instagram
           </a>
+          <a className="contactLogoContainer" href="tel:+905358993242" target="_blank" rel="noreferrer">
+            <img className="contactLogo" src={phone} alt="yükleniyor..."/>
+              Bizi arayın!
+          </a>
           <a className="contactLogoContainer" href="https://wa.me/+905358993242" target="_blank" rel="noreferrer">
             <img className="contactLogo" src={whatsapp} alt="yükleniyor..."/>
               WhatsApp
           </a>
+
         </div>
       </header>
     </div>
